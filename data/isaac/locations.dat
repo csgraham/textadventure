@@ -1,0 +1,23 @@
+# id; name; description; items; characters; exits
+#1;Cemetery;"You are standing in an empty, desolate field, littered with old, worn gravestones, long since weathered by wind and rain. There is a path to the east that leads to a old, stone mausoleum, halfway into a nearby, shadowed copse. To the south, you can see an old, wooden shack, with a single sputtering candle in the window.";1;;0,2,3,0
+1;Cave;"You are in a cave filled with spirits that haunt you. You see a burning light in the south.";2;;0,0,2,0
+
+2;Registration;"You enter to what looks like an abandoned hotel registration room that reeks of rotting shrimp. It is very dilapitated and dead. You see a door to the north. You also see a door to the south. There is also a 6 year old spirit pleading for its mother.";;1;1,7,3,6
+
+3;Wasteland;"You enter a wasteland were the ground is brown. The sky is blue. You see what looks like a dying pig that has tentacles in its mouth. You also see a building with a revolving door at the front.";1;2;2,5,0,4
+
+4;Transparent Wall;"You find yourself at a transparent wall where the outside is safe from the horrors that lurk in this horrifying city. On the other side it is healthy and the grass is green and there are normal deer and elk. You wonder how this is normal compared to the city your in. You also see a white door.";;4;0,3,0,5
+
+5;Laboratory;"You enter a laboratory that has a tapestry of a snail dying of plague. It appears to be covered in snake blood. You also find some notes about this city. They read 'Log 1: We have successfully recovered test Subject 1. Subject 1 is in bad condition. Subject 1 has been dead for 400 years since the witch burns in the 1600s. Subject 1 has been revived from its ashes.We might have a cure for death. If it goes wrong, we will incinerate the whole city.'";3;;0,4,0,3
+
+6;Hotel Room;"You enter a hotel room covered in ashes. Everything in the room has been burned. But somehow you find some notes. You then realize you are a scientist that was working with Subject 1. You somehow got left behind. You should immediateley kill all the tainted creatures in the area. You should also find a cure to this madness. There is also a human-like figure in theroom. There is also a door to the north in the room";4;3;0,2,0,0
+
+7;Portal To Hell;"You see a hellish swirly thing in the distance. You go into the distance and 
+and you see a daemonic gestalt of spirts all glowing. Behind it is a door out of this place.";;4;0,3,8,2
+
+8;OUTSIDE WORLD;"You go to a village in the distance. It has some people but there are just hellish gestalt corpses everywhere.";;5;7,0,0,0
+
+
+
+
+

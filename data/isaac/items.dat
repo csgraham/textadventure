@@ -1,0 +1,11 @@
+# id; name; description; actions
+#1;Bag of gold;"The bag is made of old, worn leather. It contains a number of gold coins. There is dirt on it, like it might have recently been dug up. One might think that it was originally buried as an offering to the dead.";
+
+1;Dagger;"It is a dagger. Infinite Uses";
+
+2;Makeshift Bomb;"It is a bomb that you found. 1 Use";
+
+3;Cure;"It is the cure. 4 Uses";
+
+4;Nuclear Bomb;"It is the thing that shall kill all in the area except you. 1 USE";
+
